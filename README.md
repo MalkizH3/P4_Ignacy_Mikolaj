@@ -37,7 +37,7 @@ W Visual Studio:
 
 Poniżej przykładowy widok działania programu:
 
-![Zrzut ekranu](screenshots/SSP4.png)
+![Zrzut ekranu](projektt-4/projekt-4/screenshots/SSP4.png)
 
 ## Autorzy
 
