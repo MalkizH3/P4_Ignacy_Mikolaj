@@ -33,6 +33,12 @@ W Visual Studio:
 - Menu dostępne w górnej belce umożliwia zmianę ustawień.
 - Filtrowany kształt oznaczony jest na ekranie, a liczba poprawnych i błędnych przejść jest wyświetlana.
 
+## Zrzut ekranu
+
+Poniżej przykładowy widok działania programu:
+
+![Zrzut ekranu](screenshots/SSP4.png)
+
 ## Autorzy
 
 Ignacy Pałkowski - 203611
